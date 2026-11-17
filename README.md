@@ -1,17 +1,17 @@
-# 🔴 CHARVI'S POKÉDEX
+# 🔴 CHARVI'S POKEDEX
 
 ![Pokémon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:8B0000,100:DC2626&height=200&section=header&text=CHARVI%20G&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Python%20%7C%20Geospatial%20AI&descAlignY=60&descSize=16)
 
-### `TRAINER ID: CHR-001`
+### `TRAINER ID: CHAR-007`
 
-*Exploring the world of data, one experiment at a time.*
+*Exploring the world of data through experiences and experiments.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-guptacharvi19-181717?style=for-the-badge&logo=github)](https://github.com/guptacharvi19)
 [![Python](https://img.shields.io/badge/Python-Research%20Mode-3776AB?style=for-the-badge&logo=python)](https://python.org)
 
 ---
 
-## 📟 001 — POKÉDEX ENTRY
+## 📟 001 — POKEDEX ENTRY
 
 Hello, fellow explorer! I'm **Charvi**, a Data Science & Engineering student fascinated by mathematics, computation, and real-world problem solving.
 
@@ -58,17 +58,7 @@ Hello, fellow explorer! I'm **Charvi**, a Data Science & Engineering student fas
 
 ---
 
-## 🏅 005 — GYM BADGES
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptacharvi19&show_icons=true&theme=dark&hide_border=true&title_color=E53935&icon_color=FDD835)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptacharvi19&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=guptacharvi19&theme=dark&hide_border=true)
-
----
-
-## 🔬 006 — CURRENT RESEARCH QUEST
+## 🔬 005 — CURRENT RESEARCH QUEST
 
 - Strengthening programming and mathematical fundamentals.
 - Exploring machine learning and geospatial applications.
@@ -77,11 +67,11 @@ Hello, fellow explorer! I'm **Charvi**, a Data Science & Engineering student fas
 
 ---
 
-## 🔴 THANKS FOR VISITING MY POKÉDEX!
+## 🔴 THANKS FOR VISITING!
 
 *Every expert trainer started with their first Pokémon.*
 
-**KEEP LEARNING. KEEP BUILDING. KEEP EXPLORING.**
+**LEARNING. BUILDING. EXPLORING.**
 
 ![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)
 
