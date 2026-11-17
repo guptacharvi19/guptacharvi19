@@ -1,107 +1,88 @@
-# guptacharvi
 # 🔴 CHARVI'S POKÉDEX
 
-\<div align="center">
-
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:8B0000,100\:DC2626&height=200&section=header&text=CHARVI%20G&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Python%20%7C%20Geospatial%20AI&descAlignY=60&descSize=16](https://capsule-render.vercel.app/api?type=waving\&color=0:171717,50:8B0000,100\:DC2626\&height=200\&section=header\&text=CHARVI%20G\&fontSize=55\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=38\&desc=Data%20Science%20%7C%20Python%20%7C%20Geospatial%20AI\&descAlignY=60\&descSize=16)" width="100%"/>
+![Pokémon Banner](https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:8B0000,100:DC2626&height=200&section=header&text=CHARVI%20G&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Python%20%7C%20Geospatial%20AI&descAlignY=60&descSize=16)
 
 ### `TRAINER ID: CHR-001`
 
 *Exploring the world of data, one experiment at a time.*
 
-\
-
-
-\</div>
+[![GitHub](https://img.shields.io/badge/GitHub-guptacharvi19-181717?style=for-the-badge&logo=github)](https://github.com/guptacharvi19)
+[![Python](https://img.shields.io/badge/Python-Research%20Mode-3776AB?style=for-the-badge&logo=python)](https://python.org)
 
 ---
 
-## 📟 POKÉDEX ENTRY — ABOUT THE TRAINER
+## 📟 001 — POKÉDEX ENTRY
 
-Hello, fellow explorer! I'm **Charvi**, a Data Science & Engineering student fascinated by the intersection of mathematics, computation, and real-world problem solving.
-
-Currently exploring:
+Hello, fellow explorer! I'm **Charvi**, a Data Science & Engineering student fascinated by mathematics, computation, and real-world problem solving.
 
 - 🧠 Machine Learning & Artificial Intelligence
-- 🌍 Geospatial AI and spatial data analysis
+- 🌍 Geospatial AI
 - 💬 Natural Language Processing
-- 🐍 Python programming and data science
-- 🗄️ SQL and database fundamentals
+- 🐍 Python & Data Science
+- 🗄️ SQL and Database Fundamentals
 
-My philosophy: Learn by building, experiment fearlessly, and document every discovery.
-
----
-
-## ⚡ MY POKÉMON TEAM — TECH STACK
-
-\<div align="center">
-
-|                                                                                                                   Pokémon                                                                                                                   |       Type      | Developer Specialty    |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :--------------------- |
-|  \<img src="[https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png)" width="85"/>  |     Psychic     | Machine Learning       |
-| \<img src="[https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png)" width="85"/> |      Normal     | Data Science           |
-| \<img src="[https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png)" width="85"/> | Dragon / Flying | Geospatial Exploration |
-| \<img src="[https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png)" width="85"/> |     Psychic     | NLP & Research         |
-
-\</div>
-
-### 🧰 Trainer's Toolkit
-
-\<div align="center">
-
-
-
-
-
-\
-
-
-\</div>
+> My philosophy: Learn by building, experiment fearlessly, and document every discovery.
 
 ---
 
-## 🗺️ ADVENTURE LOG — SELECTED PROJECTS
+## ⚡ 002 — MY POKÉMON TEAM
 
-| Pokédex No. | Research Expedition                      | Repository                                                                                                               |
-| :---------: | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-|     #001    | Sleep Disorder Detection — Random Forest | [Explore](https://github.com/guptacharvi19/Sleep-Disorder-Detection-from-a-given-dataset-using-Random-Forest-Classifier) |
-|     #002    | Rainfall Prediction — Linear Regression  | [Explore](https://github.com/guptacharvi19/Rainfall-Prediction-using-LR)                                                 |
-|     #003    | NLP Basics — NLTK & WordNet              | [Explore](https://github.com/guptacharvi19/NLP---Basics-with-NLTK-WordNet)                                               |
-|     #004    | Python To-Do List                        | [Explore](https://github.com/guptacharvi19/To-Do-List)                                                                   |
-
----
-
-## 🏅 GYM BADGES — GITHUB STATISTICS
-
-\<div align="center">
-
-\<img src="[https://github-readme-stats.vercel.app/api?username=guptacharvi19&show_icons=true&theme=dark&hide_border=true&title_color=E53935&icon_color=FDD835](https://github-readme-stats.vercel.app/api?username=guptacharvi19\&show_icons=true\&theme=dark\&hide_border=true\&title_color=E53935\&icon_color=FDD835)" width="48%"/> \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=guptacharvi19&layout=compact&theme=dark&hide_border=true&title_color=E53935](https://github-readme-stats.vercel.app/api/top-langs/?username=guptacharvi19\&layout=compact\&theme=dark\&hide_border=true\&title_color=E53935)" width="48%"/>
-
-\<img src="[https://streak-stats.demolab.com?user=guptacharvi19&theme=dark&hide_border=true&ring=E53935&fire=FDD835&currStreakLabel=FDD835](https://streak-stats.demolab.com?user=guptacharvi19\&theme=dark\&hide_border=true\&ring=E53935\&fire=FDD835\&currStreakLabel=FDD835)" width="70%"/>
-
-\</div>
+| Pokémon | Specialty |
+|:---:|:---|
+| ![Alakazam](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png) | Machine Learning |
+| ![Porygon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png) | Data Science |
+| ![Dragonite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png) | Geospatial Exploration |
+| ![Mew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png) | NLP & Research |
 
 ---
 
-## 🔬 CURRENT RESEARCH QUEST
+## 🧰 003 — TRAINER'S TOOLKIT
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🗺️ 004 — ADVENTURE LOG
+
+| Pokédex | Research Expedition | Repository |
+|:---:|---|---|
+| #001 | Sleep Disorder Detection — Random Forest | [Explore](https://github.com/guptacharvi19/Sleep-Disorder-Detection-from-a-given-dataset-using-Random-Forest-Classifier) |
+| #002 | Rainfall Prediction — Linear Regression | [Explore](https://github.com/guptacharvi19/Rainfall-Prediction-using-LR) |
+| #003 | NLP Basics — NLTK & WordNet | [Explore](https://github.com/guptacharvi19/NLP---Basics-with-NLTK-WordNet) |
+| #004 | Python To-Do List | [Explore](https://github.com/guptacharvi19/To-Do-List) |
+
+---
+
+## 🏅 005 — GYM BADGES
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptacharvi19&show_icons=true&theme=dark&hide_border=true&title_color=E53935&icon_color=FDD835)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptacharvi19&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=guptacharvi19&theme=dark&hide_border=true)
+
+---
+
+## 🔬 006 — CURRENT RESEARCH QUEST
 
 - Strengthening programming and mathematical fundamentals.
 - Exploring machine learning and geospatial applications.
-- Learning through hands-on experiments and projects.
+- Learning through hands-on experiments.
 - Building a foundation for meaningful research and engineering.
 
 ---
 
-\<div align="center">
-
-### 🔴 THANKS FOR VISITING MY POKÉDEX!
+## 🔴 THANKS FOR VISITING MY POKÉDEX!
 
 *Every expert trainer started with their first Pokémon.*
 
 **KEEP LEARNING. KEEP BUILDING. KEEP EXPLORING.**
 
-\<img src="[https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)" width="100"/>
+![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0\:DC2626,50:8B0000,100:171717&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:DC2626,50:8B0000,100:171717\&height=100\&section=footer)" width="100%"/>
-
-\</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:8B0000,100:171717&height=100&section=footer)
